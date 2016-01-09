@@ -5,7 +5,6 @@ import stockfighter_basic as sf
 
 
 # sf.set_web_url(web = "http://127.0.0.1:8000/ob/api/")
-# sf.set_web_url(web = "http://medecau.servebeer.com:8000/ob/api/")
 # sf.set_web_url(web = "https://api.stockfighter.io/ob/api/")
 sf.set_web_url(web = "http://core.mumbaitex.com/ob/api/")
 
